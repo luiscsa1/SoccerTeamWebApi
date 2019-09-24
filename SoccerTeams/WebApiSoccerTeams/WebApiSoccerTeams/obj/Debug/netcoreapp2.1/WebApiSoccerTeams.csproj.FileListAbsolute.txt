@@ -12,3 +12,17 @@ C:\Users\Luis\Documents\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debu
 C:\Users\Luis\Documents\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\bin\Debug\netcoreapp2.1\WebApiSoccerTeams.pdb
 C:\Users\Luis\Documents\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.dll
 C:\Users\Luis\Documents\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.pdb
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\bin\Debug\netcoreapp2.1\WebApiSoccerTeams.deps.json
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\bin\Debug\netcoreapp2.1\WebApiSoccerTeams.runtimeconfig.json
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\bin\Debug\netcoreapp2.1\WebApiSoccerTeams.runtimeconfig.dev.json
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\bin\Debug\netcoreapp2.1\WebApiSoccerTeams.dll
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\bin\Debug\netcoreapp2.1\WebApiSoccerTeams.pdb
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.RazorAssemblyInfo.cache
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.RazorAssemblyInfo.cs
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.AssemblyInfo.cs
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.RazorTargetAssemblyInfo.cache
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.dll
+C:\Users\Luis\Documents\Repos\SoccerTeamWebApi\SoccerTeams\WebApiSoccerTeams\WebApiSoccerTeams\obj\Debug\netcoreapp2.1\WebApiSoccerTeams.pdb

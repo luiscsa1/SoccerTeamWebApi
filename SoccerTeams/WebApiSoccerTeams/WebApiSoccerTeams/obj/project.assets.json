@@ -12536,11 +12536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis\\Documents\\SoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams.csproj",
+      "projectUniqueName": "C:\\Users\\Luis\\Documents\\Repos\\SoccerTeamWebApi\\SoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams.csproj",
       "projectName": "WebApiSoccerTeams",
-      "projectPath": "C:\\Users\\Luis\\Documents\\SoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams.csproj",
+      "projectPath": "C:\\Users\\Luis\\Documents\\Repos\\SoccerTeamWebApi\\SoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luis\\Documents\\SoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams\\obj\\",
+      "outputPath": "C:\\Users\\Luis\\Documents\\Repos\\SoccerTeamWebApi\\SoccerTeams\\WebApiSoccerTeams\\WebApiSoccerTeams\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
