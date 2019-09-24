@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSoccerTeams", "WebApiSoccerTeams\WebApiSoccerTeams.csproj", "{FCA90D84-F445-472E-9258-35A4099BE5B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA90D84-F445-472E-9258-35A4099BE5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA90D84-F445-472E-9258-35A4099BE5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA90D84-F445-472E-9258-35A4099BE5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA90D84-F445-472E-9258-35A4099BE5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC474225-CE78-46F1-9F6E-EBB5ECD4633A}
+	EndGlobalSection
+EndGlobal
